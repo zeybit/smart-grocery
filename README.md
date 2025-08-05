@@ -40,6 +40,12 @@ uvicorn main:app --reload
 3. API dokümantasyonuna erişin: http://localhost:8000/docs
 
 ## Veri Yapısı
+veri setini indirin :
+
+ https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset?
+
+
+![alt text](image.png)
 
 Proje aşağıdaki CSV dosyalarını kullanır:
 - `sales.csv` - Satış verileri
@@ -47,6 +53,7 @@ Proje aşağıdaki CSV dosyalarını kullanır:
 - `categories.csv` - Kategori bilgileri
 
 ## Teknolojiler
+
 
 - **FastAPI** - Web framework
 - **Pandas** - Veri analizi
